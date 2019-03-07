@@ -1,0 +1,7 @@
+D:\Projekty_gitHub\BasicLearning\BasicLearning\bin\Debug\BasicLearning.exe.config
+D:\Projekty_gitHub\BasicLearning\BasicLearning\bin\Debug\BasicLearning.exe
+D:\Projekty_gitHub\BasicLearning\BasicLearning\bin\Debug\BasicLearning.pdb
+D:\Projekty_gitHub\BasicLearning\BasicLearning\obj\Debug\BasicLearning.csprojResolveAssemblyReference.cache
+D:\Projekty_gitHub\BasicLearning\BasicLearning\obj\Debug\BasicLearning.csproj.CoreCompileInputs.cache
+D:\Projekty_gitHub\BasicLearning\BasicLearning\obj\Debug\BasicLearning.exe
+D:\Projekty_gitHub\BasicLearning\BasicLearning\obj\Debug\BasicLearning.pdb

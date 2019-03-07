@@ -1,0 +1,6 @@
+D:\Projekty_gitHub\Slimak\Slimak\bin\Debug\Slimak.exe.config
+D:\Projekty_gitHub\Slimak\Slimak\bin\Debug\Slimak.exe
+D:\Projekty_gitHub\Slimak\Slimak\bin\Debug\Slimak.pdb
+D:\Projekty_gitHub\Slimak\Slimak\obj\Debug\Slimak.csproj.CoreCompileInputs.cache
+D:\Projekty_gitHub\Slimak\Slimak\obj\Debug\Slimak.exe
+D:\Projekty_gitHub\Slimak\Slimak\obj\Debug\Slimak.pdb
