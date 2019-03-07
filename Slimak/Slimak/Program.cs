@@ -14,7 +14,7 @@ namespace Slimak
             int b;
             int count = 0;
 
-            Console.Write("Podaj rozmiar tablicy: ");
+            Console.Write("Podaj rozmiar tablicy:");
             a = Convert.ToInt32(Console.ReadLine());
             b = a;
             int[,] tablica = new int[a, a];
