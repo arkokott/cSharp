@@ -8,7 +8,7 @@ namespace Lesson3
 {
     class Program
     {
-        static void Main()
+        static void Switches()
         {
             string myInput;
             int myInt;
