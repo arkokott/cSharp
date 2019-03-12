@@ -12,23 +12,30 @@ namespace CloseApp
         {
 
             String answer;
-            Console.WriteLine("Close application? ");
-            answer = Console.ReadLine();
+            bool a = true;
 
-            switch (answer.ToLower())
+
+            do
             {
-                case "t":
-                    Console.WriteLine("Close.");
-                    break;
-                case "n":
-                    Console.WriteLine("No close.");
-                    break;
-                default:
-                    Console.WriteLine("No close deafult.");
-                    break;
-            }
+                Console.WriteLine("Close application? ");
+                answer = Console.ReadLine();
 
-            Console.ReadLine();
+                switch (answer.ToLower())
+                {
+                    case "t":
+                        Console.WriteLine("Close.");
+                        a = false;
+                        break;
+                    case "n":
+                        Console.WriteLine("No close.");
+                        a = true;
+                        break;
+                    default:
+                        Console.WriteLine("No close deafult.");
+                        a = true;
+                        break;
+                }
+            } while (a == true);
         }
     }
 }
