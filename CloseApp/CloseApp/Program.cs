@@ -12,7 +12,7 @@ namespace CloseApp
         {
 
             String answer;
-            bool a = true;
+            bool option = true;
 
 
             do
@@ -24,18 +24,16 @@ namespace CloseApp
                 {
                     case "t":
                         Console.WriteLine("Close.");
-                        a = false;
+                        option = false;
                         break;
                     case "n":
                         Console.WriteLine("No close.");
-                        a = true;
                         break;
                     default:
                         Console.WriteLine("No close deafult.");
-                        a = true;
                         break;
                 }
-            } while (a == true);
+            } while (option == true);
         }
     }
 }
